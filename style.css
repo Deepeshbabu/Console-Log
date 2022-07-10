@@ -1,0 +1,25 @@
+#head1 
+{
+  text-align: center ;
+  size: 20px ;
+}
+
+#ins
+{
+  width: 60% ;
+  text-align: center ;
+}
+
+#soul 
+{
+  width: 60% ;
+  text-align: center ;
+}
+
+.gr 
+{
+  height : 3px ;
+  border-width : 0 ;
+  color : black ;
+  background-color : black ;
+}
